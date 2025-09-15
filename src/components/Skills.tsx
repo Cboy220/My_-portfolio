@@ -64,7 +64,7 @@ const Skills = () => {
       title: t('skills.tools'),
       icon: <GitBranch className="h-6 w-6" />,
       color: "tech-blue",
-      skills: ["Git", "GitHub", "Bitbucket", "Agile Development", "Test Driven Development", "Scrum"]
+      skills: ["Git", "GitHub", "Bitbucket", "Agile Development", "Test Driven Development", "Scrum", "AI", "CRM"]
     }
   ];
 
